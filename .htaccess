@@ -1,0 +1,6 @@
+RewriteEngine On
+#RewriteBase /
+RewriteRule ^design/(.*)$ design/$1 [L,QSA]
+RewriteRule ^dayside/(.*)$ dayside/$1 [L,QSA]
+RewriteRule ^(.*)/(.*)$ index.php?controller=$1&action=$2 [L,QSA]
+RewriteRule ^(.*)$ index.php?controller=$1 [L,QSA]

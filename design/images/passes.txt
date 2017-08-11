@@ -1,0 +1,38 @@
+hargin101@gmail.com
+Пароль: gv-dfkGf543B6oT9
+
+wp-test: DLegRb*k)RN$6O$1hQ
+
+вебмани
+логин
+unbearableperfection@gmail.com
+пароль:
+wepotere090932  wepotere567432
+Приват24
+№ 5168-7555-2978-6648
+
+Пасс от моего п24  и ВМ:
+fthdr458DfH78
+satelito17
+
+echo "<pre>";
+print_r(Privat24( $aCurrency['sEquivalent'] )->SendPBMoney( mt_rand( 10000000, 99999999 ), '5168755529786648', 1, $_CURRENCIES['PRIVAT24UAH']['sEquivalent'], 'test'));
+echo "</pre>";
+чт. 17:30
+Вишнякивська 13(аптека Виталюкс, сева от аптеки) Оксана
+Филиппенко Дмитро
+Передан на проверку тестировщику, в течение дня рекомендую уточнить о результате
+
+Резервная фраза:
+1.swim
+2.trade
+3.enlist
+4.trust
+5.potato
+6.evolve
+7.middle
+8.much
+9.elder
+10.library
+11.history
+12.mask
